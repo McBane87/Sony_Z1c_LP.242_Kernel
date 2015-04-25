@@ -10,3 +10,6 @@ After that you will find "boot.img" in root of your Repo.
 
 ...........................................
 Building tested with Ubuntu 14.04 64-Bit.
+
+
+-
